@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="ROCKERADDONS" name="therocker7421.github.io" version="1.0" provider-name="TheRocker7421">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/TheRocker7421/therocker7421.github.io/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/TheRocker7421/therocker7421.github.io/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/TheRocker7421/therocker7421.github.io/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>TheRocker7421's Kodi Addons</summary>
+        <description>TheRocker7421's Kodi Addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
